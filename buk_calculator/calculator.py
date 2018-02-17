@@ -1,6 +1,3 @@
-from functools import reduce
-
-
 coef_arr = None
 while coef_arr == None:
 	try:
